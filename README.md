@@ -25,7 +25,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Throughout creating this app, a challenge I faced was using built in hotkeys in android studios to import libraries as well as write specific classes.
+Throughout creating this app, a challenge I faced was using built in hotkeys in android studio to import libraries as well as write specific functions.
 
 ## License
 
